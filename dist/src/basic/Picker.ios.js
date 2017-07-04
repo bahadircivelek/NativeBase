@@ -144,7 +144,7 @@ onPress:function onPress(){
 _this4._setModalVisible(false);
 },__source:{fileName:_jsxFileName,lineNumber:134}},
 
-_react2.default.createElement(_Text.Text,{__source:{fileName:_jsxFileName,lineNumber:147}},this.props.headerBackButtonText||"Back"))),
+_react2.default.createElement(_Text.Text,{style:this.props.headerBackButtonTextStyle,__source:{fileName:_jsxFileName,lineNumber:147}},this.props.headerBackButtonText||"Back"))),
 
 
 _react2.default.createElement(_Body.Body,{__source:{fileName:_jsxFileName,lineNumber:150}},
